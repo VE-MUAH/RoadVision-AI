@@ -53,7 +53,7 @@ except Exception:
 # ---- CONFIG / PATHS ----
 MODEL_PATHS = {
     "Road Markings (YOLOv11)": "road_markings_model.pt",
-    "Road Defects (YOLOv11)": "road_defects_model.pt",
+    "Road Defects (YOLOv11)": "road_defects_model .pt",
 }
 
 # Where to save exports
